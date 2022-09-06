@@ -1,0 +1,15 @@
+C:\Users\Augustin\source\repos\2020\lelab\lelab\lelab\bin\Debug\netstandard2.0\lelab.deps.json
+C:\Users\Augustin\source\repos\2020\lelab\lelab\lelab\bin\Debug\netstandard2.0\lelab.dll
+C:\Users\Augustin\source\repos\2020\lelab\lelab\lelab\bin\Debug\netstandard2.0\ref\lelab.dll
+C:\Users\Augustin\source\repos\2020\lelab\lelab\lelab\bin\Debug\netstandard2.0\lelab.pdb
+C:\Users\Augustin\source\repos\2020\lelab\lelab\lelab\obj\Debug\netstandard2.0\lelab.csprojAssemblyReference.cache
+C:\Users\Augustin\source\repos\2020\lelab\lelab\lelab\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Augustin\source\repos\2020\lelab\lelab\lelab\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Augustin\source\repos\2020\lelab\lelab\lelab\obj\Debug\netstandard2.0\lelab.AssemblyInfoInputs.cache
+C:\Users\Augustin\source\repos\2020\lelab\lelab\lelab\obj\Debug\netstandard2.0\lelab.AssemblyInfo.cs
+C:\Users\Augustin\source\repos\2020\lelab\lelab\lelab\obj\Debug\netstandard2.0\lelab.csproj.CoreCompileInputs.cache
+C:\Users\Augustin\source\repos\2020\lelab\lelab\lelab\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Augustin\source\repos\2020\lelab\lelab\lelab\obj\Debug\netstandard2.0\lelab.dll
+C:\Users\Augustin\source\repos\2020\lelab\lelab\lelab\obj\Debug\netstandard2.0\ref\lelab.dll
+C:\Users\Augustin\source\repos\2020\lelab\lelab\lelab\obj\Debug\netstandard2.0\lelab.pdb
+C:\Users\Augustin\source\repos\2020\lelab\lelab\lelab\obj\Debug\netstandard2.0\Views\CountPage.xaml.g.cs
